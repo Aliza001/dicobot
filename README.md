@@ -1,5 +1,7 @@
-# discobot Typescript Update
+# Rhythm-Bot 2.0 Typescript Update
 - All converted to typescript for ease of collaboration, make sure to globally install typescript as listed in the installation below
+
+Note: This is not the bot listed here [https://rythmbot.co/](https://rythmbot.co/)
 
 ## Description
 
